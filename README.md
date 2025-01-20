@@ -15,6 +15,7 @@ Feel free to browse through the code, experiment with the projects, and contribu
 Let's Connect!
 
 LinkedIn: https://www.linkedin.com/in/riddhi-sharma-468bbb2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 I'm constantly learning and expanding my skills. Stay tuned for more exciting projects to come!
 
 Thank you for visiting my GitHub!
