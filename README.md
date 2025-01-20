@@ -11,6 +11,7 @@ Text Adventure.cpp: Embark on a thrilling text-based adventure! This C++ project
 To Do List.c: A simple yet efficient to-do list manager written in C. Easily add, remove, and mark tasks as completed to stay organized.
 
 Website Blocker.py: A Python script that helps you stay focused by blocking distracting websites during designated times.
+
 Explore and Contribute!
 
 Feel free to browse through the code, experiment with the projects, and contribute your own ideas and improvements. I'm always open to feedback and collaboration.
